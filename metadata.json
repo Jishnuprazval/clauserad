@@ -1,0 +1,6 @@
+{
+  "name": "ClauseRadar – Contract Risk Highlighter",
+  "description": "Automated contract risk detection and plain-English analysis engine identifying hidden clauses, service bonds, non-competes, and unfair terms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
